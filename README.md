@@ -62,6 +62,8 @@ Optimized for low cost (serverless + turn off debug when idle) and for recruiter
 - **Azure SQL Serverless** auto-pauses when idle → you pay only storage during pause.
 - **ADF Debug** spins a Spark pool; **turn Debug OFF** when not designing.
 - Use tiny CSVs to keep runs quick/cheap.
+- <img width="1876" height="861" alt="image" src="https://github.com/user-attachments/assets/fb224654-009c-418b-b398-fdc32cbf8077" />
+
 
 ---
 
